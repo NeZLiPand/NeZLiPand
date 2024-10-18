@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Andrii</h1>
+<h1 align="center">Hi (。・・)ノ, I'm Andrii</h1>
 <h3 align="center">A backend developer from Ukraine</h3>
 
 - I had a pet project, but in reality, the only thing I gained was psychological trauma.

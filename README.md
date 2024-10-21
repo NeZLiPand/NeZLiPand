@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/NeZLiPand/MyCV](https://github.com/NeZLiPand/MyCV/blob/master/CV%20Java%20Developer%20Andrii%20Inkin.pdf)
 
-- ⚡ Fun fact about me **Quikly - nothing**
+- ⚡ Fun fact about me **I create such cool regular expressions that even email addresses are afraid not to match them! 😄**
 
 ---
 

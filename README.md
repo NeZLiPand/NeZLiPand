@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi (。・・)ノ, I'm Andrii</h1>
+<h1 align="left">Hi (。・・)ノ, I'm Andrii</h1>
 <h3 align="left">A backend developer from Ukraine</h3>
 
 - 🌱 `I’m currently learning` [*Spring*](https://spring.io/)

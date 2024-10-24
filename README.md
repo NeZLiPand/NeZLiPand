@@ -11,7 +11,7 @@
 - 📄 Learn `about my experiences` from [my CV](https://github.com/NeZLiPand/MyCV/blob/master/CV%20Java%20Developer%20Andrii%20Inkin.pdf)
 
 - ⚡ Fun facts about me:
-  - I create such severe regular expressions that even email addresses are afraid not to match them!
+  - I create such severe regular expressions 😄 that even email addresses are afraid not to match them!
 
   - Also I had a pet project, but in reality, the only thing I gained was psychological trauma 😄:
     - Name of the project:

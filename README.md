@@ -15,9 +15,9 @@
   - I create such severe regular expressions 😄 that even email addresses are afraid not to match them!
 
   - Also I had a pet project, but in reality, the only thing I gained was psychological trauma 😄:
-    - Name of the project:
+    - Here is that monster:
       - Currency Rate Application (*Now* [*on hold*](https://github.com/NeZLiPand/CurrencyRateApplication))
-    - Description:
+    - Description of the monster:
       - SOAP service for obtaining exchange rates from an open API.
 
 ##

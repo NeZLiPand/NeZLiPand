@@ -1,6 +1,11 @@
 
 <h1 align="left">Hi (。・・)ノ, I'm Andrii</h1>
-<h3 align="left">A backend developer from Ukraine</h3>
+<h3 align="left">
+  I'm backend developer from Ukraine,
+</h3>
+<h4 align="left">
+     Now, I'm looking for a job!
+</h4>
 
 - 🌱 `I’m currently learning` [*Spring*](https://spring.io/)
 

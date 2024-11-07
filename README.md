@@ -14,7 +14,7 @@
 - <a href="https://linkedin.com/in/andrii inkin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrii inkin" align="top" height="23" width="23" /></a> Linked<a href="https://linkedin.com/in/andrii inkin" target="blank">In</a>
 - 📫 pandaofyourdreams@gmail.com 
 
-- 📄 Learn `about my experiences` from [my CV](https://github.com/NeZLiPand/MyCV/blob/master/CV%20Java%20Developer%20Andrii%20Inkin.pdf)
+- 📄 Learn about `my` `experiences` from [my CV](https://github.com/NeZLiPand/MyCV/blob/master/CV%20Java%20Developer%20Andrii%20Inkin.pdf) (recommended to download that links became active)
 
 - ⚡ Fun facts about me:
   - I create such severe regular expressions 😄 that even email addresses are afraid not to match them!
